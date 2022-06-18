@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; "Computer programming is a wonderful hobby that can turn into a career. It creates a sense of joy and prosperity to see the program come to life."
-- 🔧 &nbsp; Making life a little bit easyer using code.
+- 🔧 &nbsp; Making life a little bit easier using code.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
