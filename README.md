@@ -30,4 +30,4 @@
 
 <a href="mailto:ivan.tomic2108@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.tomic2108@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantomic77&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantomic77&hide=tex)](https://github.com/anuraghazra/github-readme-stats)
