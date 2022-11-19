@@ -26,8 +26,8 @@
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantomic77&hide=tex,html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="mailto:ivan.tomic2108@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.tomic2108@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivantomic77&hide=tex,html,css)](https://github.com/anuraghazra/github-readme-stats)
