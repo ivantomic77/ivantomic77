@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; "Computer programming is a wonderful hobby that can turn into a career. It creates a sense of joy and prosperity to see the program come to life.
-
+- "Code enthusiast, tech explorer, and perpetual student. Always eager to take on new challenges and expand my horizons through programming."
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
