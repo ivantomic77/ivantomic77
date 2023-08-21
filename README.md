@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Ivan.</h2>
+<h2> Hey there! I'm Ivan. Backend Developer @ OG Consultancy Services</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
