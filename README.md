@@ -1,7 +1,8 @@
-<h2> Hey there! I'm Ivan. Backend Developer @ OG Consultancy Services</h2>
+<h2> Hey there! I'm Ivan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+<h4>Backend Developer @ <i>OG Consultancy Services</i></h4>
 - "Code enthusiast, tech explorer, and perpetual student. Always eager to take on new challenges and expand my horizons through programming."
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
