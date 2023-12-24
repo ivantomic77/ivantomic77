@@ -1,35 +1,18 @@
-<h2> Hey there! I'm Ivan.</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Tomic
+==================================================================================================================================
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+Backend Developer
+-----------------
 
-<h4>Backend Developer @ <i>OG Consultancy Services</i></h4>
-- "Code enthusiast, tech explorer, and perpetual student. Always eager to take on new challenges and expand my horizons through programming."
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I specialize in backend development, but I'm always up for an adventure into new tech territories. Let's code something awesome!
 
-- 🌐 &nbsp;
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-- ⚙ &nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-- 🛢 &nbsp;
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- 🔧 &nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label="/>
-- 🖥 &nbsp;
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-- ☁ &nbsp;
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+* 🌍  I'm based in Croatia
+* 🖥️  See my portfolio at [tomic.dev](http://tomic.dev)
 
-<br/>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivantomic77&layout=compact&hide=tex,html,css)](https://github.com/anuraghazra/github-readme-stats)
+### Socials
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="left"> <a href="https://www.github.com/ivantomic77" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/itomic7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-<a href="mailto:ivan.tomic2108@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ivan.tomic2108@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://github.com/ivantomic77" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivantomic77&layout=compact&hide=tex,html,css" alt="Top Languages" /></a>
