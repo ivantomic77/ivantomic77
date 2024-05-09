@@ -16,4 +16,6 @@ I specialize in backend development, but I'm always up for an adventure into new
 
 ### Badges
 
+[![views](https://komarev.com/ghpvc/?username=ivantomic77&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/ivantomic77)
+
 <a href="https://github.com/ivantomic77" align="left"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ivantomic77&layout=compact&hide=tex,html,css" alt="Top Languages" /></a>
